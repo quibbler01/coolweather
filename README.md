@@ -1,0 +1,3 @@
+# coolweather
+open gui
+weather
